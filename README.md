@@ -42,6 +42,7 @@ over 30,000 e-mail with lots of huge attachments stored across over 450 folders.
 * Perform a test run with no changes made to the destination
 * Generous console output showing the progress and details for logging and
 debugging
+* Support for large mailboxes - breaks them into smaller pieces
 
 ## Requirements
 
